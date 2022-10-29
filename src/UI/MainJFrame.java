@@ -109,7 +109,7 @@ public class MainJFrame extends javax.swing.JFrame {
             }
         });
 
-        comboSelect.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "System Admin", "Hospital Admin", "Patient User", "Doctor Admin", "User login", "Community Admin", " ", " ", " ", " ", " " }));
+        comboSelect.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "System Admin", "Hospital Admin", "Patient User", "Doctor Admin", "Community Admin" }));
 
         javax.swing.GroupLayout SignInPanelLayout = new javax.swing.GroupLayout(SignInPanel);
         SignInPanel.setLayout(SignInPanelLayout);
