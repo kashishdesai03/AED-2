@@ -31,17 +31,6 @@ public class MainJFrame extends javax.swing.JFrame {
     CommunityDirectory communityDirectory;
     CityDirectory cityDirectory;
 
-//    public MainJFrame(DoctorDirectory doctorDirectory, EncounterHistory encounterHistory, HospitalDirectory hospitalDirectory, PatientDirectory patientDirectory, PersonDirectory personDirectory, CommunityDirectory communityDirectory, CityDirectory cityDirectory) {
-//        initComponents();
-//        this.doctorDirectory = doctorDirectory;
-//        this.encounterHistory = encounterHistory;
-//        this.hospitalDirectory = hospitalDirectory;
-//        this.patientDirectory = patientDirectory;
-//        this.personDirectory = personDirectory;
-//        this.communityDirectory = communityDirectory;
-//        this.cityDirectory = cityDirectory;
-//    }
-//    
     
     
     public MainJFrame() {
@@ -173,8 +162,6 @@ public class MainJFrame extends javax.swing.JFrame {
     private void btnSignInActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnSignInActionPerformed
        
         
-//        SystemAdminForm systemAdminForm = new SystemAdminForm(doctorDirectory, encounterHistory, hospitalDirectory, patientDirectory, personDirectory);
-//        systemAdminForm.setVisible(true);
      
         if(comboSelect.getSelectedItem().toString().equals("System Admin"))
         {

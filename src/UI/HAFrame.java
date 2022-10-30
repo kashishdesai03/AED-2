@@ -26,9 +26,7 @@ public class HAFrame extends javax.swing.JFrame {
     PatientDirectory patientDirectory;
     PersonDirectory personDirectory;
 
-//    public HAFrame() {
-//        initComponents();
-//    }
+
 
     public HAFrame(DoctorDirectory doctorDirectory, EncounterHistory encounterHistory, HospitalDirectory hospitalDirectory, PatientDirectory patientDirectory, PersonDirectory personDirectory) {
         initComponents();
@@ -167,12 +165,7 @@ public class HAFrame extends javax.swing.JFrame {
         }
         //</editor-fold>
 
-        /* Create and display the form */
-//        java.awt.EventQueue.invokeLater(new Runnable() {
-//            public void run() {
-//                new HAFrame().setVisible(true);
-//            }
-//        });
+        
     }
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
