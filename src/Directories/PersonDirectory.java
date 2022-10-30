@@ -27,14 +27,6 @@ public class PersonDirectory {
         this.personDirectory = personDirectory;
     }
     
-//    
-//      public Employee addNewEmployee(){
-//        Employee e = new Employee();
-//        history.add(e);
-//        return e;
-//             
-//    }
-//    
     
     
     
