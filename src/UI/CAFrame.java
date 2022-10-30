@@ -52,10 +52,6 @@ public class CAFrame extends javax.swing.JFrame {
    
     
     
-    
-//    public CAFrame() {
-//        initComponents();
-//    }
 
     /**
      * This method is called from within the constructor to initialize the form.
@@ -224,12 +220,7 @@ public class CAFrame extends javax.swing.JFrame {
         }
         //</editor-fold>
 
-        /* Create and display the form */
-//        java.awt.EventQueue.invokeLater(new Runnable() {
-//            public void run() {
-//                new CAFrame().setVisible(true);
-//            }
-//        });
+        
     }
 
     // Variables declaration - do not modify//GEN-BEGIN:variables

@@ -47,13 +47,7 @@ public class Encounter {
     public void setDiagnosis(String diagnosis) {
         this.diagnosis = diagnosis;
     }
-    
-//      @Override
-//    public String toString()
-//    {
-//        return ;
-//    }
-//     
+     
 
     @Override
     public String toString() {
