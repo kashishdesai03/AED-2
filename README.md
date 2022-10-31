@@ -29,4 +29,4 @@ Put them in your README file.
 
 Class Diagram:
 
-![classDiagram](classDiagram.png)
+![classDiagram](src/classDiagram.png)
