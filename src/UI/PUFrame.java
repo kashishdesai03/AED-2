@@ -507,52 +507,6 @@ public class PUFrame extends javax.swing.JFrame {
                 txtGender.setText("");
                 txtPhone.setText("");
                 
-                       
-               
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                 
-     
-        
-//        DefaultTableModel model3 = (DefaultTableModel) tblEncounter.getModel();
-////        Encounter selectedEncounter = (Encounter) model3.getValueAt(selectedRowIndex, 0);
-//         
-//         ArrayList<Encounter> encounters = new ArrayList<Encounter>();
-//         encounters=selectedPatient.getEncounterHistory().getEncounterHistory();
-//         
-//           model3.setRowCount(0);
-//           
-//           for(Encounter e : encounters)
-//                {
-//                    Object[] row = new Object[5];
-//                    
-//                    row[0]=e;
-//                    row[1]=e.getVitalSigns().getBloodPressure();
-//                    row[2]=e.getVitalSigns().getHeartRate();
-//                    row[3]=e.getVitalSigns().getBodyTemperature();
-//                    row[4]=e.getDiagnosis();
-//                    
-//                   
-//                    
-//                    model3.addRow(row);
-//                    
-//                }
-           
-
-        
-        
-        
-//      ------------------------------------------------
-        
-        
         
             }
         }
@@ -600,12 +554,7 @@ public class PUFrame extends javax.swing.JFrame {
         }
         //</editor-fold>
 
-//        /* Create and display the form */
-//        java.awt.EventQueue.invokeLater(new Runnable() {
-//            public void run() {
-//                new PUFrame().setVisible(true);
-//            }
-//        });
+
     }
 
     // Variables declaration - do not modify//GEN-BEGIN:variables

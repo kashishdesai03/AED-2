@@ -33,10 +33,7 @@ public class SAViewPatientPanel extends javax.swing.JPanel {
     PatientDirectory patientDirectory;
     PersonDirectory personDirectory;
 
-//    
-//    public SAViewPatientPanel() {
-//        initComponents();
-//    }
+
 
     public SAViewPatientPanel(DoctorDirectory doctorDirectory, EncounterHistory encounterHistory, HospitalDirectory hospitalDirectory, PatientDirectory patientDirectory, PersonDirectory personDirectory) {
         initComponents();
@@ -513,40 +510,8 @@ public class SAViewPatientPanel extends javax.swing.JPanel {
                     
                     model2.addRow(row);
            
-           
-         
-         
-         
-         
-//          DefaultTableModel model = (DefaultTableModel) tblPatientView.getModel();
-//                  
-//                model.setRowCount(0);
-//                
-//                for(Patient p : patientDirectory.getPatientDirectory())
-//                {
-//                    Object[] row = new Object[7];
-//                    row[0]=p;
-//                    row[1]=p.getAddress().getCity().getCityName();
-//                    row[2]=p.getAddress().getCommunity().getCommunityName();
-//                    row[3]=p.getAddress().getHouse().getHouseName();
-//                    row[4]=p.getDob();
-//                    row[5]=p.getGender();
-//                    
-//                    row[6]=p.getPhone();
-//                    
-//                    model.addRow(row);
-//                    
-//                    
+
                 }
-         
-         
-//        Encounter e = (Encounter) model2.getValueAt(selectedRowIndex, 0);
-        
-        
-        
-                
-        
-        
         
         
         

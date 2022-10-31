@@ -46,9 +46,6 @@ public class SAPatientManagementWorkArea extends javax.swing.JPanel {
     }
     
     
-//    public SAPatientManagementWorkArea() {
-//        initComponents();
-//    }
 
     /**
      * This method is called from within the constructor to initialize the form.
@@ -297,17 +294,7 @@ public class SAPatientManagementWorkArea extends javax.swing.JPanel {
         
         
         JOptionPane.showMessageDialog(this, "Patient is Created");
-        
-        
-//        
-//        for( Patient s : patientDirectory.getPatientDirectory()){
-//            System.out.println(s.getName());
-//        }
-            
-        
-         
-        
-                
+               
         
     }//GEN-LAST:event_btnSavePatientActionPerformed
 

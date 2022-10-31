@@ -34,9 +34,7 @@ public class SADoctorManagmentWorkArea extends javax.swing.JPanel {
     PatientDirectory patientDirectory;
     PersonDirectory personDirectory;
 
-//    public SADoctorManagmentWorkArea() {
-//        initComponents();
-//    }
+
 
     public SADoctorManagmentWorkArea(DoctorDirectory doctorDirectory, EncounterHistory encounterHistory, HospitalDirectory hospitalDirectory, PatientDirectory patientDirectory, PersonDirectory personDirectory) {
         initComponents();
@@ -320,17 +318,7 @@ public class SADoctorManagmentWorkArea extends javax.swing.JPanel {
         
         
         JOptionPane.showMessageDialog(this, "Doctor is Created");
-        
-                
-        
-        
-//        
-//        h.setHospitalCity(hospitalCityName);
-//        h.setHospitalName(hospital);
-//        h.setHospitalCommunity(hospitalCommunityName);
-//        
-                
-                
+                  
         
     }//GEN-LAST:event_btnCreateDoctorActionPerformed
 

@@ -38,9 +38,7 @@ public class SAPatientDoctorManagmentPanel extends javax.swing.JPanel {
         this.personDirectory = personDirectory;
     }
     
-//    public SAPatientManagmentPanel() {
-//        initComponents();
-//    }
+
 
     /**
      * This method is called from within the constructor to initialize the form.
